@@ -73,6 +73,11 @@ export default function LoginForm() {
           )}
         </div>
       </div>
+      <p>Log in and out of the application using the following credentials:</p>
+      <ul>
+        <li>Email: <b>user@nextmail.com</b></li>
+        <li>Password: <b>123456</b></li>
+      </ul>
     </form>
   );
 }
